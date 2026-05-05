@@ -1,0 +1,320 @@
+{
+  "1":{
+    "quote": "Done to death by slanderous tongue, was the hero that here lies.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Much Ado About Nothing (V, iii)"
+  },
+  "2":{
+    "quote": "Desire too much of a good thing?",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "As You Like It (IV, i)"
+  },
+  "3":{
+    "quote": "I wonder why we take from our women?",
+    "is_shakespeare": false,
+    "artist": "2pac",
+    "act": "Keep Ya Head Up"
+  },
+  "4":{
+    "quote": "I never wished to be the burden bearer, but souls need saving.",
+    "is_shakespeare": false,
+    "artist": "Big K.R.I.T.",
+    "act": "The Vent"
+  },
+  "5":{
+    "quote": "What's past is prologue.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "The Tempest (II, i)"
+  },
+  "6":{
+    "quote": "This was the most unkindest cut of all.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Julius Caesar (III, ii)"
+  },
+  "7":{
+    "quote": "What's here, the portrait of a blinking idiot?",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "The Merchant of Venice (II, ix)"
+  },
+  "8":{
+    "quote": "A sword sliced the air.",
+    "is_shakespeare": false,
+    "artist": "Tyler, the Creator",
+    "act": "She"
+  },
+  "9":{
+    "quote": "Everything you stand for turns on you to spite you?",
+    "is_shakespeare": false,
+    "artist": "Eminem",
+    "act": "When I'm Gone"
+  },
+  "10":{
+    "quote": "When I'm sick of this life I see, it has to be my family who lift me.",
+    "is_shakespeare": false,
+    "artist": "Devlin",
+    "act": "Watchtower"
+  },
+  "11":{
+    "quote": "The marriage of true minds admit impediments",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Sonnet 116"
+  },
+  "12":{
+    "quote": "I set it down that one may smile, and smile, and be a villain.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Hamlet (I, v)"
+  },
+  "13":{
+    "quote": "A heart like yours; that pumps blood and oxygen and insecurities.",
+    "is_shakespeare": false,
+    "artist": "Akala",
+    "act": "Find No Enemy"
+  },
+  "14":{
+    "quote": "From the other side, what you see: a bunch of nonsense.",
+    "is_shakespeare": false,
+    "artist": "Lupe Fiasco",
+    "act": "Around my Way"
+  },
+  "15":{
+    "quote": "Look around this manor and all you will see is ill-mannered people",
+    "is_shakespeare": false,
+    "artist": "Plan B",
+    "act": "Lost My Way"
+  },
+  "16":{
+    "quote": "I didn't cry, because my anger wouldn't let me feel for a stranger.",
+    "is_shakespeare": false,
+    "artist": "2pac",
+    "act": "Dear Mama"
+  },
+  "17":{
+    "quote": "Neither a borrower nor a lender be.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Hamlet (I, iii)"
+  },
+  "18":{
+    "quote": "My words fly up, my thoughts remain below.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Hamlet (III, iii)"
+  },
+  "19":{
+    "quote": "Then I hope this take away from my sins.",
+    "is_shakespeare": false,
+    "artist": "Kanye West",
+    "act": "Jesus Walks"
+  },
+  "20":{
+    "quote": "My beloved, let's get down to business: mental self-defensive fitness.",
+    "is_shakespeare": false,
+    "artist": "Public Enemy",
+    "act": "Fight the Power"
+  },
+  "21":{
+    "quote": "May the Lord protect me as the world gets hectic.",
+    "is_shakespeare": false,
+    "artist": "Nicki Minaj",
+    "act": "Autobiography"
+  },
+  "22":{
+    "quote": "When you do dance, I wish you a wave of the sea.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "The Winter's Tale (IV, iv)"
+  },
+  "23":{
+    "quote": "Count myself a king of infinite space.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Hamlet (II, ii)"
+  },
+  "24":{
+    "quote": "Men at some time are masters of their fates.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Julius Caesar (I, ii)"
+  },
+  "25":{
+    "quote": "",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": ""
+  },
+  "26":{
+    "quote": "Froze up like a mannequin.",
+    "is_shakespeare": false,
+    "artist": "J Cole",
+    "act": "Lost Ones"
+  },
+  "27":{
+    "quote": "The music, ho!",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Anthony and Cleopatra"
+  },
+  "28":{
+    "quote": "But if you don’t, I’ll unsheathe my Excalibur, like a noble knight",
+    "is_shakespeare": false,
+    "artist": "Gangstarr",
+    "act": "Step in the Arena"
+  },
+  "29":{
+    "quote": "Holla, holla!",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "King Lear"
+  },
+  "30":{
+    "quote": "This is the proper way man should use ink.",
+    "is_shakespeare": false,
+    "artist": "Big Daddy Kane",
+    "act": "Taste of Chocolate"
+  },
+  "31":{
+    "quote": "Welcome, ass, Now let’s have a catch.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Twelfth Night"
+  },
+  "32":{
+    "quote": "The money that you owe me for the chain.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Comedy of Errors"
+  },
+  "33":{
+    "quote": "Pay me back when you shake it again.",
+    "is_shakespeare": false,
+    "artist": "Nas",
+    "act": "You Own Me"
+  },
+  "34":{
+    "quote": "Holla, ho! Curtis!",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Taming of the Shrew"
+  },
+  "35":{
+    "quote": "Sabotaged, shellshocked, rocked and ruled, Day in the life of a fool.",
+    "is_shakespeare": false,
+    "artist": "Public Enemy",
+    "act": "Brothers Gonna Work it Out"
+  },
+  "36":{
+    "quote": "Every square inch of it, that he chose for himself, is the best part.",
+    "is_shakespeare": false,
+    "artist": "Wu-Tang Clan",
+    "act": "Wu-Revolution"
+  },
+  "37":{
+    "quote": "If I told you that a flower bloomed in a dark room would you trust it?",
+    "is_shakespeare": false,
+    "artist": "Kendrick Lamar",
+    "act": "Poetic Justice"
+  },
+  "38":{
+    "quote": "Hands to the heavens, no man, no weapon. Formed against, yes glory is destined.",
+    "is_shakespeare": false,
+    "artist": "Common/John Legend",
+    "act": "Glory"
+  },
+  "39":{
+    "quote": "Flout 'em and scout 'em. And scout 'em and flout 'em. Thought is free.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "The Tempest (III, ii)"
+  },
+  "40":{
+    "quote": "Hell is empty and all the devils are here.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "The Tempest (I, ii)"
+  },
+  "41":{
+    "quote": "We only know what we know until someone knows better.",
+    "is_shakespeare": false,
+    "artist": "Chance the Rapper",
+    "act": "Broad Shoulders"
+  },
+  "42":{
+    "quote": "A million feelings, a thousand thoughts, a hundred memories all for one person.",
+    "is_shakespeare": false,
+    "artist": "Lil' Wayne",
+    "act": "A Milli"
+  },
+  "43":{
+    "quote": "Love is too young to know what conscience is.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Shakespeare's Sonnet 151"
+  },
+  "44":{
+    "quote": "Corrupt a man's heart with a gift, that's how you find out who you're dealing with.",
+    "is_shakespeare": false,
+    "artist": "Kendrick Lamar",
+    "act": "All The Stars"
+  },
+  "45":{
+    "quote": "The robbed that smiles, steals something from the thief.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Othello (I, iii)"
+  },
+  "46":{
+    "quote": "Men would rather use their broken weapons than their own hands.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Othello (I, iii)"
+  },
+  "47":{
+    "quote": "I was not born under a rhyming planet.",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Much Ado About Nothing (V, ii)"
+  },
+  "48":{
+    "quote": "It's okay to lose people, but never lose yourself.",
+    "is_shakespeare": false,
+    "artist": "Eminem",
+    "act": "Loose Yourself"
+  },
+  "49":{
+    "quote": "To destroy the beauty from which one came",
+    "is_shakespeare": false,
+    "artist": "Jay-Z",
+    "act": "You Must Love Me"
+  },
+  "50":{
+    "quote": "Maybe it’s hatred I spew, maybe it’s food for the spirit",
+    "is_shakespeare": false,
+    "artist": "Eminem (ft.)",
+    "act": "Renegade"
+  },
+  "51":{
+    "quote": "Men would rather use their broken records than their bare hands",
+    "is_shakespeare": true,
+    "artist": "Shakespeare",
+    "act": "Othello (I, iii)"
+  },
+  "52":{
+    "quote": "The most benevolent king communicates through your dreams",
+    "is_shakespeare": false,
+    "artist": "Wu-Tang Clan",
+    "act": "Impossible"
+  },
+  "53":{
+    "quote": "Socrates, philosophy and hypotheses can’t define me",
+    "is_shakespeare": false,
+    "artist": "Wu-Tang Clan",
+    "act": "Triumph"
+  }
+}
