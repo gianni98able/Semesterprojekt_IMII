@@ -23,4 +23,3 @@ async function loadJoke() {
 }
 const data_joke = await loadJoke();
 console.log(data_joke); // gibt die Daten der API oder false in der Konsole aus
-
